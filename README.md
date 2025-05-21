@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Mikhail;Software+Engineer+from+ITMO&center=true&size=30&color=FFD700&vCenter=true&width=600&height=45&pause=1000" />
 </p>
 
-<h3 align="center">ITMO Software engineer .net/c# developer!</h3>
+<h3 align="center">.net/c# developer!</h3>
 
 - 🔭 I’m currently working on **at-group project**
 
