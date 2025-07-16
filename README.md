@@ -4,8 +4,6 @@
 
 <h3 align="center">.NET/C# Developer!</h3>
 
-- 🔭 I’M CURRENTLY WORKING ON **at-group project**
-
 - 📫 telegram: [t.me/az1r0](https://t.me/az1r0)
 
 <h3 align="left">Connect with me:</h3>
